@@ -2,7 +2,7 @@
 #### Video Demo:  https://youtu.be/fH2kQK4GTHk
 #### Description: This project is inspired by Google Voice Assistant, IOS Voice Assistant (SIRI), and Microsoft Voice Assistant(Cortana). I aimed to make a voice assistant like Jarvis in the Iron Man movie, but due to the lack of my expertise, I was not able to make that, but somehow managed to make a small-scale Voice Assistant. This project is inspired by Google Voice Assistant, IOS Voice Assistant (SIRI), and Microsoft Voice Assistant(Cortana). I aimed to make a voice assistant like Jarvis in the Iron Man movie, but due to the lack of my expertise, I was not able to make that, but somehow managed to make a small-scale Voice Assistant. 
 
-===============================================================================================================================================================================================
+====================================================================================================================
 
 #### Usage: Make sure to first call the activation key ("Titan"). 
 
@@ -31,10 +31,11 @@
 (6) os 
 (7) time. 
 
+====================================================================================================================
 
-=> Pyttsx3: is a text-to-speech conversion library in Python. Unlike alternative libraries, it works offline and is compatible with both Python 2 and 3. 
-=> Speech_rocognition: is a library for performing speech recognition, with support for several engines and APIs, online and offline. 
-=> Webbrowser: module provides a high-level interface to allow displaying web-based documents to users. Under most circumstances, simply calling the open() function from this module will do the right thing. 
-=> Pyjokes: is a module that provides one-line jokes for programmers (jokes as a service). 
-=> OS: This module provides a portable way of using operating system-dependent functionality. If you just want to read or write a file see open(), if you want to manipulate paths, see the os. path module, and if you want to read all the lines in all the files on the command line see the file input module. For creating temporary files and directories see the tempfile module, and for high-level file and directory handling see the shutil module. 
-=> Time: This module in Python provides functions for handling time-related tasks.
+#### Pyttsx3: is a text-to-speech conversion library in Python. Unlike alternative libraries, it works offline and is compatible with both Python 2 and 3. 
+#### Speech_rocognition: is a library for performing speech recognition, with support for several engines and APIs, online and offline. 
+#### Webbrowser: module provides a high-level interface to allow displaying web-based documents to users. Under most circumstances, simply calling the open() function from this module will do the right thing. 
+#### Pyjokes: is a module that provides one-line jokes for programmers (jokes as a service). 
+#### OS: This module provides a portable way of using operating system-dependent functionality. If you just want to read or write a file see open(), if you want to manipulate paths, see the os. path module, and if you want to read all the lines in all the files on the command line see the file input module. For creating temporary files and directories see the tempfile module, and for high-level file and directory handling see the shutil module. 
+#### Time: This module in Python provides functions for handling time-related tasks.
