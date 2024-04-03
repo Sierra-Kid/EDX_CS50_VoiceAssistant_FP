@@ -1,6 +1,6 @@
 # EDX_CS50_VoiceAssistant_FP
 #### Video Demo:  https://youtu.be/fH2kQK4GTHk
-#### Description: This project is inspired by Google Voice Assistant, IOS Voice Assistant (SIRI), and Microsoft Voice Assistant(Cortana). I aimed to make a voice assistant like Jarvis in the Iron Man movie, but due to the lack of my expertise, I was not able to make that, but somehow managed to make a small-scale Voice Assistant. This project is inspired by Google Voice Assistant, IOS Voice Assistant (SIRI), and Microsoft Voice Assistant(Cortana). I aimed to make a voice assistant like Jarvis in the Iron Man movie, but due to the lack of my expertise, I was not able to make that, but somehow managed to make a small-scale Voice Assistant. 
+#### Description: This project is inspired by Google Voice Assistant, IOS Voice Assistant (SIRI), and Microsoft Voice Assistant(Cortana). I aimed to make a voice assistant like Jarvis in the Iron Man movie, but due to the lack of my expertise, I was not able to make that, but somehow managed to make a small-scale Voice Assistant.
 
 ====================================================================================================================
 
